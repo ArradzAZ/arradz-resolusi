@@ -2,5 +2,5 @@ Arradz resolusi
 - konsisten untuk belajar pemrograman
 - membuat platform untuk pengelolaan perushaan BW
 - membuat forum diskusi
-- membuat MeatShop
 - kolaborasi dengan lebih banyak expert
+- membuat vlog
