@@ -3,6 +3,7 @@ rencana konten arradz
   * ES6
   * Framework javascrip
     ^vue
+    ^react
 - struktur data dasar
 - Php framework
   ^laravel
