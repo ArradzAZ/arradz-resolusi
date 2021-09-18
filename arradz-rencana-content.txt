@@ -2,6 +2,7 @@ rencana konten arradz
 - Video JavaScrip
   * ES6
   * Framework javascrip
+- struktur data dasar
 - Php framework
 - Interview
 - Vlog
